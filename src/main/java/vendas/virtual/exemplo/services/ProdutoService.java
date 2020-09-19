@@ -1,4 +1,4 @@
 package vendas.virtual.exemplo.services;
 
-public class InadiplenteClienteService {
+public class ProdutoService {
 }
