@@ -1,0 +1,4 @@
+package vendas.virtual.exemplo.utils;
+
+public class ProgramaData {
+}
