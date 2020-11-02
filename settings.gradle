@@ -1,1 +1,8 @@
 rootProject.name = 'monolito-to-microservices'
+include 'entregas'
+include 'gerenciamento-clientes'
+include 'market-empresarial'
+include 'qualificacao-produto'
+include 'sistema-financeiro'
+include 'gerenciamento-vendas'
+include 'vendas-virtual-api'

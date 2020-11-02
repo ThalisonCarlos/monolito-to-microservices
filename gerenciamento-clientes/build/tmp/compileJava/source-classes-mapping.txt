@@ -1,0 +1,8 @@
+br/com/gerenciador/clientes/gerenciamentoClientes/AutenticaService.java
+ br.com.gerenciador.clientes.gerenciamentoClientes.AutenticaService
+br/com/gerenciador/clientes/gerenciamentoClientes/ClienteController.java
+ br.com.gerenciador.clientes.gerenciamentoClientes.ClienteController
+br/com/gerenciador/clientes/gerenciamentoClientes/InadiplentesUsuariosService.java
+ br.com.gerenciador.clientes.gerenciamentoClientes.InadiplentesUsuariosService
+br/com/gerenciador/clientes/gerenciamentoClientes/ClientePremiumController.java
+ br.com.gerenciador.clientes.gerenciamentoClientes.ClientePremiumController

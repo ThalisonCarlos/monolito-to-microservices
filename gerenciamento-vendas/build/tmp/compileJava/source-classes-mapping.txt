@@ -1,0 +1,26 @@
+vendasApp/VendedoresController.java
+ vendasApp.VendedoresController
+vendasApp/VendedoresService.java
+ vendasApp.VendedoresService
+vendasApp/ItemRepository.java
+ vendasApp.ItemRepository
+vendasApp/ProdutoController.java
+ vendasApp.ProdutoController
+vendasApp/CalculoTaxasMovimentacoesService.java
+ vendasApp.CalculoTaxasMovimentacoesService
+vendasApp/PrecoService.java
+ vendasApp.PrecoService
+vendasApp/CalculoFreteServices.java
+ vendasApp.CalculoFreteServices
+vendasApp/VendasRepository.java
+ vendasApp.VendasRepository
+vendasApp/EstoqueService.java
+ vendasApp.EstoqueService
+vendasApp/CompraService.java
+ vendasApp.CompraService
+vendasApp/VendasController.java
+ vendasApp.VendasController
+vendasApp/VendasService.java
+ vendasApp.VendasService
+vendasApp/ProdutoService.java
+ vendasApp.ProdutoService

@@ -1,0 +1,2 @@
+vendas/virtual/exemplo/VendaVirtualApplication.java
+ vendas.virtual.exemplo.VendaVirtualApplication

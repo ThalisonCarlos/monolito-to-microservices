@@ -1,0 +1,10 @@
+qualificacaoProduto/ComentariosService.java
+ qualificacaoProduto.ComentariosService
+qualificacaoProduto/AvaliacoesController.java
+ qualificacaoProduto.AvaliacoesController
+qualificacaoProduto/ComentariosController.java
+ qualificacaoProduto.ComentariosController
+qualificacaoProduto/AvaliacoesService.java
+ qualificacaoProduto.AvaliacoesService
+qualificacaoProduto/ComentariosRepository.java
+ qualificacaoProduto.ComentariosRepository
